@@ -1,0 +1,11 @@
+#working with Git
+#Fork a repo, make change and commit to the fork 
+#https://docs.github.com/en/get-started/quickstart/fork-a-repo
+git clone https://github.com/rofangaci/Spoon-Knife
+
+#after Modify a file or add a new file - same process
+#check status
+git status
+git add .
+git commit -m "comments .."
+git push #push to github
